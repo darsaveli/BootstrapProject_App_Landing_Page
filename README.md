@@ -3,13 +3,7 @@
 
 *With B5*
 
-![image](https://user-images.githubusercontent.com/81953271/129383716-67637358-0628-47ee-ac6d-45e2d557c79c.png)![image](https://user-images.githubusercontent.com/81953271/129383969-3965db42-3fff-4c19-94b1-0f5f07251420.png)
-
-![image](https://user-images.githubusercontent.com/81953271/129383333-9258c7f7-ff1d-45e3-aa5f-731f9a475d02.png)
-
-![image](https://user-images.githubusercontent.com/81953271/129383369-69d962ff-7d06-4bf0-9b98-88af95221eef.png)
-
-![image](https://user-images.githubusercontent.com/81953271/129383405-7627e70e-3528-469c-bdf1-de7e2103f2ee.png)
+![image](https://user-images.githubusercontent.com/81953271/129383716-67637358-0628-47ee-ac6d-45e2d557c79c.png)![image](https://user-images.githubusercontent.com/81953271/129383969-3965db42-3fff-4c19-94b1-0f5f07251420.png)![image](https://user-images.githubusercontent.com/81953271/129384230-4783c205-b02b-4ad4-841c-9ec2708baba4.png)
 
 *Mobile version*
 
